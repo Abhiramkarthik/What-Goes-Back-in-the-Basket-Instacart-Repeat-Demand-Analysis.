@@ -1,0 +1,31 @@
+ranking,product_id,product_name,times_ordered,reorder_count,reorder_rate_pct
+highest_reorder_rate,9292,Half And Half Ultra Pasteurized,2921,2517,86.16912016432728
+highest_reorder_rate,45504,Whole Organic Omega 3 Milk,9108,7835,86.02327624066754
+highest_reorder_rate,43394,Organic Lactose Free Whole Milk,8477,7282,85.90303173292439
+highest_reorder_rate,5514,Organic Homogenized Whole Milk,3970,3405,85.76826196473552
+highest_reorder_rate,47231,Ultra-Purified Water,1489,1277,85.7622565480188
+highest_reorder_rate,29447,"Milk, Organic, Vitamin D",20198,17256,85.43420140607981
+highest_reorder_rate,38689,Organic Reduced Fat Milk,35663,30338,85.0685584499341
+highest_reorder_rate,34197,Goat Milk,5185,4407,84.99517839922855
+highest_reorder_rate,24852,Banana,472565,398609,84.35008940569023
+highest_reorder_rate,31720,Organic  Whole Milk,9842,8279,84.11908148750254
+highest_reorder_rate,39180,Organic Lowfat 1% Milk,14869,12488,83.98681821238819
+highest_reorder_rate,24521,Lowfat Goat Milk,1159,972,83.86540120793788
+highest_reorder_rate,2748,Organic Reduced Fat Omega-3 Milk,5159,4325,83.83407637138981
+highest_reorder_rate,13166,"Organic Milk Reduced Fat, 2% Milkfat",12737,10667,83.74813535369397
+highest_reorder_rate,20940,Organic Low Fat Milk,8438,7040,83.43209291301257
+highest_order_volume,24852,Banana,472565,398609,84.35008940569023
+highest_order_volume,13176,Bag of Organic Bananas,379450,315913,83.2555013835815
+highest_order_volume,21137,Organic Strawberries,264683,205845,77.77038948477991
+highest_order_volume,21903,Organic Baby Spinach,241921,186884,77.2500113673472
+highest_order_volume,47209,Organic Hass Avocado,213584,170131,79.65531125927036
+highest_order_volume,47766,Organic Avocado,176815,134044,75.81031021123773
+highest_order_volume,47626,Large Lemon,152657,106255,69.60375220265038
+highest_order_volume,16797,Strawberries,142951,99802,69.81553119600422
+highest_order_volume,26209,Limes,140627,95768,68.10072034531063
+highest_order_volume,27845,Organic Whole Milk,137905,114510,83.03542293607919
+highest_order_volume,27966,Organic Raspberries,137057,105409,76.90887732841081
+highest_order_volume,22935,Organic Yellow Onion,113426,79072,69.71241161638424
+highest_order_volume,24964,Organic Garlic,109778,74663,68.01271657344823
+highest_order_volume,45007,Organic Zucchini,104823,72165,68.84462379439627
+highest_order_volume,39275,Organic Blueberries,100060,62922,62.88426943833699

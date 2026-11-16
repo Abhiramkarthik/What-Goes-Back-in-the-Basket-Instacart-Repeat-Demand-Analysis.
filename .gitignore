@@ -1,0 +1,12 @@
+# Dataset files can be large and are governed by the source terms.
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Local Python environment and notebook clutter
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
