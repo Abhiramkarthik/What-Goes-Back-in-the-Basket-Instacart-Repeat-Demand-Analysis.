@@ -1,4 +1,4 @@
-# The Grocery Store That Ran Out First
+# What-Goes-Back-in-the-Basket-Instacart-Repeat-Demand-Analysis.
 
 An Instacart market-basket analysis project that identifies products and categories with high repeat demand and builds a historical replenishment-monitoring shortlist.
 
