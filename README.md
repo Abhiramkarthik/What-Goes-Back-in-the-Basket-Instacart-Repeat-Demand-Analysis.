@@ -61,6 +61,6 @@ The dataset has no inventory counts, stockout events, physical item quantities, 
 
 ## Project files
 
-- `notebooks/01_data_audit.ipynb` — guided analysis notebook.
+- `notebooks/01_.ipynb` — guided analysis notebook.
 - `reports/` — summary tables, findings, and chart images.
 - `data/raw/` — source CSV files used locally; these are excluded from version control.
